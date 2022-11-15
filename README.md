@@ -12,9 +12,9 @@
 
   ### 1) Theme selection and sources
   
-    For this project the theme selected has been criptocurrencies research, as probably my bootcamp project will be focused to that matter.
-    After some research the sources to be used will be Binance and CoinmarketCap, as they are top sources of information about this matter worldwide.
+For this project the theme selected has been criptocurrencies research, as probably my bootcamp project will be focused to that matter.
+After some research the sources to be used will be Binance and CoinmarketCap, as they are top sources of information about this matter worldwide.
 
   ### 2) Data Extraction (Web Scrapping y API)
   
-    ![CoinmarketCap_tabla$](https://user-images.githubusercontent.com/114177420/201887873-7f59f8d9-0280-47e0-a85a-8f77bed85e07.JPG)
+![CoinmarketCap_tabla$](https://user-images.githubusercontent.com/114177420/201888885-f5c83ffc-6e99-4105-b693-db3c50d7298f.JPG)
