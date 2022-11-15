@@ -3,7 +3,7 @@
 
 ## Fases del proyecto
 
-### 1) Selección del tema y las fuentes
-### 2) Extracción de datos (Web Scrapping y API)
-### 3) Transformación de los datos
-### 4) Carga a base de datos (SQL)
+#### 1) Selección del tema y las fuentes
+#### 2) Extracción de datos (Web Scrapping y API)
+#### 3) Transformación de los datos (Pandas)
+#### 4) Carga a base de datos (SQL)
